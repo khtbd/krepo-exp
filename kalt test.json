@@ -1,0 +1,24 @@
+{
+  "name": "kTest",
+  "identifier": "com.krepo.repository",
+  "apps": [
+    {
+      "beta": false,
+      "name": "snapchat iota [⚠️]",
+      "bundleIdentifier": "com.toyopagroup.picaboo",
+      "developerName": "iota team",
+      "subtitle": "the ultimate snapchat tweak",
+      "version": "6.0-13.1.0",
+      "versionDate": "2024-08-31",
+      "versionDescription": "[ status: ⚠️ ] - you can use the tweak all its features are working, but as of currently, using this version will get your snapchat account locked whenever snap inc. decides to launch a ban wave.as soon as you log in to the account using the tweak your account will be flagged. please use an alt account or similar before launching this tweak!",
+      "downloadURL": "https://github.com/khtbd/KDRepo/releases/download/release-1.0/iota6.0-13.1.0.ipa",
+      "localizedDescription": "the most powerful tweak for snapchat!",
+      "iconURL": "https://raw.githubusercontent.com/khtbd/KDRepo/refs/heads/main/KDEsign/Assets/snapchat%20iota.jpg",
+      "tintColor": "ff68b1",
+      "size": 195260579.84,
+      "screenshotURLs": [
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.4pmtech.com%2Fwp-content%2Fuploads%2F2023%2F08%2FIota-Examples-scaled.webp&f=1&nofb=1&ipt=ac985ed8793c83010fcd0f2a149093995369acb2f64a8d3eb766d9d3adc60007&ipo=images"
+      ]
+    }
+  ]
+}
