@@ -1,26 +1,49 @@
 {
-  "name": "kTest",
-  "identifier": "com.krepo.repository",
-  "apps": [
-    {
-      "beta": false,
-      "name": "snapchat iota [⚠️]",
-      "bundleIdentifier": "com.toyopagroup.picaboo",
-      "developerName": "iota team",
-      "subtitle": "the ultimate snapchat tweak",
-      "version": "6.0-13.1.0",
-      "versionDate": "2024-10-23T15:39:00+02:00",
-      "versionDescription": "[ status: ⚠️ ] - you can use the tweak all its features are working, but as of currently, using this version will get your snapchat account locked whenever snap inc. decides to launch a ban wave.as soon as you log in to the account using the tweak your account will be flagged. please use an alt account or similar before launching this tweak!",
-      "downloadURL": "https://github.com/khtbd/KDRepo/releases/download/release-1.0/iota6.0-13.1.0.ipa",
-      "localizedDescription": "the most powerful tweak for snapchat!",
-      "iconURL": "https://raw.githubusercontent.com/khtbd/KDRepo/refs/heads/main/KDEsign/Assets/snapchat%20iota.jpg",
-      "tintColor": "ff68b1",
-      "size": 195260579.84,
-      "screenshotURLs": [
-        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot1.png",
-        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot2.png",
-        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot3.png"
-      ]
-    }
-  ]
+	"name": "DonutWare Repository",
+	"subtitle": "A source for Fladder and co.",
+	"iconURL": "https://avatars.githubusercontent.com/u/42371342",
+	"tintColor": "#3A2101",
+	"apps": [
+	  {
+	    "name": "Fladder",
+	    "bundleIdentifier": "nl.jknaapen.fladder",
+	    "developerName": "DonutWare",
+	    "localizedDescription": "A Simple Jellyfin Frontend built on top of Flutter.",
+	    "iconURL": "https://github.com/DonutWare/Fladder/raw/develop/icons/fladder_macos_icon.png?raw=true",
+	    "category": "entertainment",
+	    "screenshots": [
+	      {
+	        "imageURL": "https://github.com/DonutWare/Fladder/blob/develop/assets/marketing/screenshots/Mobile/Dashboard.png?raw=true"
+	      },
+	      {
+	        "imageURL": "https://github.com/DonutWare/Fladder/blob/develop/assets/marketing/screenshots/Mobile/Details.png?raw=true"
+	      },
+	      {
+	        "imageURL": "https://github.com/DonutWare/Fladder/blob/develop/assets/marketing/screenshots/Mobile/Sync.png?raw=true"
+	      },
+	      {
+	        "imageURL": "https://github.com/DonutWare/Fladder/blob/develop/assets/marketing/screenshots/Mobile/Favourites.png?raw=true"
+	      }
+	    ],
+	    "versions": [
+			{
+				"version": "0.2.6",
+				"buildVersion": "56",
+				"date": "2024-10-18",
+				"size": 29129014,
+				"downloadURL": "https://github.com/DonutWare/Fladder/releases/download/v0.2.6/fladder-iOS-0.2.6.ipa",
+				"minOSVersion": "13"
+			},
+			{
+				"version": "0.2.5",
+				"buildVersion": "52",
+				"date": "2024-10-16",
+				"size": 28835840,
+				"downloadURL": "https://github.com/DonutWare/Fladder/releases/download/v0.2.5/fladder-iOS-0.2.5.ipa",
+				"minOSVersion": "13"
+			}
+	    ]
+	  }
+	],
+	"news": []
 }
